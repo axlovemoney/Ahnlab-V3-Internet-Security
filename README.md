@@ -216,4 +216,4 @@ AhnLab V3 Internet Security is offered as a **full free version** with all featu
 Protect your PC today! Download AhnLab V3 Internet Security for a **safe download** and experience complete security while browsing the web.
 
 ---
-**Last updated:** 2026-09-23 23:32:16 UTC
+**Last updated:** 2026-09-24 04:20:01 UTC
